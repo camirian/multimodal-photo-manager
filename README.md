@@ -6,11 +6,11 @@
 
 ---
 
-## 🎯 Resume Claim Covered
+## 🎯 Core Technical Competencies
 
-| Claim ID   | Capability                           | Deliverable                                                                   |
-| :--------- | :----------------------------------- | :---------------------------------------------------------------------------- |
-| **AI_PROJ_01** | Full-stack Applied AI Pipeline | A sanitized MVP demonstrating Gemini 1.5 Flash integration for automated visual enrichment. |
+| Capability                           | Deliverable                                                                   |
+| :----------------------------------- | :---------------------------------------------------------------------------- |
+| Full-stack Applied AI Pipeline | A sanitized MVP demonstrating Gemini 1.5 Flash integration for automated visual enrichment. |
 
 ---
 
