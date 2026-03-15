@@ -4,6 +4,8 @@
 
 > Architected and developed a complete Python-based system to automate the organization and enrichment of large photo libraries using Google's Gemini Multimodal models.
 
+[View the Structural Roadmap](ROADMAP.md)
+
 ---
 
 ## 🎯 Core Technical Competencies
